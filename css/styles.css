@@ -1,0 +1,63 @@
+.page-container{
+    display: block;
+    margin: 0 auto ;
+    height: 100%;
+    width: 100%;
+    padding-bottom: 100px;
+}
+
+body {
+    min-height: 400px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: grey; 
+    margin-bottom: 100px; 
+}
+
+#show_image, #jepch_image, #armada_image, #cades_image, #denali_image, #expxlt_image, #finqx70_image, #grcher_image, #jepsah_image, #jpspt_image, #pilot_image, #redjep_image, #rubicon_image, #traverse-image {
+    width:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h1, h2{
+    font-family: 'Open Sans', sans-serif;
+}
+
+h3{
+    font-family: 'Open Sans', sans-serif;
+}
+
+a:link, a:visited { 
+  color: blue;
+  text-decoration: underline;
+  cursor: auto;
+}
+
+a:hover{
+    color: red;
+}
+  
+  #content-wrap {
+    padding-bottom: 3.5rem;    /* Footer height */
+  }
+
+.footer {
+    position: sticky;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+  
+
+  
+ 
+  
+
+  
+
+  
